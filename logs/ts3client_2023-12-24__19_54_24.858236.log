@@ -1,0 +1,192 @@
+
+
+==================================================================================================================================
+
+2023-12-24 22:54:24.858236|INFO    |              |   |TeamSpeak Client 3.5.6 (2020-11-25 13:53:42)
+2023-12-24 22:54:24.859234|INFO    |              |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2023-12-24 22:54:24.859234|INFO    |              |   |Using hardware aes
+2023-12-24 22:54:24.902238|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms - 
+2023-12-24 22:54:25.026248|INFO    |ClientUI      |   |OpenGL Info: LibGLES, Vendor: Google Inc., Renderer: ANGLE (NVIDIA GeForce RTX 3050 Direct3D11 vs_5_0 ps_5_0), Version: OpenGL ES 2.0 (ANGLE 2.1.0.57ea533f79a7)
+2023-12-24 22:54:25.231415|INFO    |              |   |*** Time [ICONMANGER]: 192
+2023-12-24 22:54:25.234415|INFO    |Addons        |   |Checking for addon updates...
+2023-12-24 22:54:25.257383|INFO    |Plugins       |   |Loading plugin: gamepad_joystick_win64.dll
+2023-12-24 22:54:25.336389|INFO    |Gamepad Plugin|   |Found client raw input wnd proc
+2023-12-24 22:54:25.336389|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:54:25.338388|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:54:25.338388|INFO    |Plugins       |   |Loading plugin: tokovoip_win64.dll
+2023-12-24 22:54:25.342389|INFO    |TokoVOIP      |141|TokoVOIP initialized
+2023-12-24 22:54:25.342389|INFO    |TokoVOIP      |141|Can't get current channel : invalid server connection handler ID
+2023-12-24 22:54:25.342389|INFO    |TokoVOIP      |141|Error getting all clients from the server : invalid server connection handler ID
+2023-12-24 22:54:25.342389|INFO    |TokoVOIP      |141|Can't get current channel : invalid server connection handler ID
+2023-12-24 22:54:25.342389|INFO    |TokoVOIP      |141|Error getting all clients from the server : invalid server connection handler ID
+2023-12-24 22:54:25.342389|INFO    |TokoVOIP      |141|Error getting all clients from server : invalid server connection handler ID
+2023-12-24 22:54:25.593260|INFO    |Addon         |   |Addon up to date.
+2023-12-24 22:54:25.761687|INFO    |TokoVOIP      |141|Got update json
+2023-12-24 22:54:25.762688|INFO    |TokoVoip      |   |init
+2023-12-24 22:54:25.763688|INFO    |TokoVoip      |   |No translation available.
+2023-12-24 22:54:25.763688|INFO    |TokoVoip      |   |Radio: enabled: true
+2023-12-24 22:54:25.763688|INFO    |TokoVoip      |   |init done
+2023-12-24 22:54:25.763688|INFO    |Plugins       |   |Loading plugin: clientquery_plugin_win64.dll
+2023-12-24 22:54:25.766690|INFO    |Query         |   |listening on 127.0.0.1:25639
+2023-12-24 22:54:25.766690|INFO    |Plugins       |   |Loading plugin: teamspeak_control_plugin_win64.dll
+2023-12-24 22:54:25.769689|INFO    |ControlPlugin |   |Control Plugin started, accepting connections
+2023-12-24 22:54:25.769689|INFO    |              |   |*** Time [PLUGINS]: 512
+2023-12-24 22:54:25.833694|INFO    |Addon         |   |Addon up to date.
+2023-12-24 22:54:25.908699|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:54:25.908699|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:54:26.078301|INFO    |Addon         |   |Addon up to date.
+2023-12-24 22:54:26.179913|INFO    |              |   |successfully downloaded revocation list for accounting
+2023-12-24 22:54:26.242918|INFO    |              |   |successfully downloaded revocation list for myteamspeak id
+2023-12-24 22:54:26.339925|INFO    |              |   |*** Time [BUILD_GUI]: 424
+2023-12-24 22:54:26.386929|INFO    |              |   |*** Time [SERVERVIEW]: 480
+2023-12-24 22:54:26.400930|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 508
+2023-12-24 22:54:26.556944|INFO    |              |   |*** Time [MAINWINDOW]: 1710
+2023-12-24 22:54:26.556944|INFO    |              |   |*** Time [INIT]: 1711
+2023-12-24 22:54:26.570943|INFO    |ClientUI      |   |Qt version: 5.12.3
+2023-12-24 22:54:26.570943|INFO    |ClientUI      |   |Using configuration location: C:\Users\Xandynn\AppData\Roaming\TS3Client\settings.db
+2023-12-24 22:54:26.679951|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:54:26.697953|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 22:54:26.698953|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 22:54:26.702953|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:54:26.703958|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:54:26.817776|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:54:26.817776|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:54:26.978790|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 22:54:26.978790|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:54:26.978790|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {C6527791-070E-4AA4-9DED-C9604817C7DF}
+2023-12-24 22:54:26.978790|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:54:27.056626|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2023-12-24 22:54:27.057624|INFO    |ClientUI      |   |Last update check was: dom dez 24 00:30:03 2023
+2023-12-24 22:54:27.058629|INFO    |              |   |Statistics report: Not yet, next report on sáb jan 20 00:08:42 2024
+2023-12-24 22:54:27.062624|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:54:27.066625|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:54:27.182633|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:54:27.188637|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:54:27.575834|INFO    |Newsticker    |   |Newsticker next check: seg dez 25 00:30:05 2023
+2023-12-24 22:54:28.699856|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:54:28.700860|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:54:28.700860|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:54:28.701858|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:54:29.015814|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:54:29.015814|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:54:29.015814|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:54:29.015814|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:54:39.684891|INFO    |ClientUI      |1  |Connect to server: flashac
+2023-12-24 22:54:39.690890|INFO    |ClientUI      |1  |Trying to resolve flashac
+2023-12-24 22:54:39.690890|INFO    |TSDNS         |   |Trying to resolve server name: flashac
+2023-12-24 22:54:39.850800|INFO    |TSDNS         |   |Server name successfully resolved
+2023-12-24 22:54:39.851802|INFO    |TSDNS         |   |Lookup: 3002.tsfivem.com.br, parse result: DNS 3002.tsfivem.com.br 9987
+2023-12-24 22:54:39.851802|INFO    |TSDNS         |   |Server name resolved to host: 3002.tsfivem.com.br 9987
+2023-12-24 22:54:39.904623|INFO    |TSDNS         |   |SRV DNS resolve successful, "_ts3._udp.3002.tsfivem.com.br" =(h: _dc-srv.5316a1067a00._ts3._udp.3002.tsfivem.com.br p:3002)
+2023-12-24 22:54:39.911624|INFO    |TSDNS         |   |A/AAAA DNS resolve unsuccessful, "tsfivem.com.br" DNS server returned answer with no data
+2023-12-24 22:54:39.919625|INFO    |TSDNS         |   |A/AAAA DNS resolve successful, "3002.tsfivem.com.br" =(h: 172.67.186.233 p:0)
+2023-12-24 22:54:39.924627|INFO    |TSDNS         |   |SRV DNS resolve unsuccessful, "_tsdns._tcp.tsfivem.com.br" Domain name not found
+2023-12-24 22:54:39.937625|INFO    |TSDNS         |   |A/AAAA DNS resolve for possible TSDNS successful, "3002.tsfivem.com.br" =(h: 172.67.186.233 p:0)
+2023-12-24 22:54:40.000630|INFO    |TSDNS         |   |A/AAAA DNS resolve successful, "_dc-srv.5316a1067a00._ts3._udp.3002.tsfivem.com.br" =(h: 149.56.44.237 p:0)
+2023-12-24 22:54:40.000630|INFO    |ClientUI      |1  |Lookup finished: ip=149.56.44.237 port=3002 query=3002.tsfivem.com.br error=0
+2023-12-24 22:54:40.000630|INFO    |ClientUI      |1  |Resolve successful: 149.56.44.237:3002
+2023-12-24 22:54:40.000630|INFO    |ClientUI      |1  |Initiating connection: 149.56.44.237:3002
+2023-12-24 22:54:40.011631|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:54:40.011631|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:54:40.011631|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:54:40.015631|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 2 - Alto-falantes (SHEM-BOY)
+2023-12-24 22:54:40.015631|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Alto-falantes (SHEM-BOY)
+2023-12-24 22:54:40.046634|INFO    |Windows Audio Session|   |Initialized with 2 channels in 32bit, 48kHz. - Alto-falantes (SHEM-BOY)
+2023-12-24 22:54:40.046634|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Alto-falantes (SHEM-BOY)
+2023-12-24 22:54:40.046634|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:54:40.046634|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:54:40.047634|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:54:40.081635|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:54:40.081635|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:54:40.081635|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:54:40.082636|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 22:54:40.082636|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 22:54:40.115639|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 22:54:40.115639|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 22:54:40.115639|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:54:40.115639|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:54:40.127641|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:54:40.152643|INFO    |ClientUI      |1  |Connect status: Connecting
+2023-12-24 22:54:40.168643|INFO    |              |   |tried to request user integration info without valid session
+2023-12-24 22:54:40.428664|DEVELOP |PktHandler    |1  |Puzzle solve time: 0
+2023-12-24 22:54:40.649680|INFO    |TokoVOIP      |141|Can't get current channel : not connected
+2023-12-24 22:54:40.649680|INFO    |TokoVOIP      |141|Error getting all clients from the server : not connected
+2023-12-24 22:54:40.649680|INFO    |TokoVOIP      |141|Can't get channel of client : not connected
+2023-12-24 22:54:40.925898|INFO    |ClientUI      |1  |Connect status: Connected
+2023-12-24 22:54:40.928899|INFO    |              |   |Failed to read image C:/Users/Xandynn/AppData/Roaming/TS3Client/cache/remote/1H7yAwDB1A1HM0A0Ni_hd+7kE0FCF0AtNeiXcfPaSgkuW63Fub2pjia_aCKhikXJuyLO5njM9hDNcfrtwyFcJg==
+2023-12-24 22:54:41.938583|INFO    |TSDNS         |   |TSDNS queried unsuccessfully 172.67.186.233:41144
+2023-12-24 22:54:41.938583|INFO    |TSDNS         |   |No TSDNS found
+2023-12-24 22:54:42.016588|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2023-12-24 22:54:42.021739|INFO    |ClientUI      |1  |Connect status: Connection established
+2023-12-24 22:54:42.270734|INFO    |              |   |Failed to read image C:/Users/Xandynn/AppData/Roaming/TS3Client/cache/remote/1H7yAwDB1A1HM0A0Ni_hd+7kE0FCF0AtNeiXcfPaSgkuW63Fub2pjia_aCKhikXJuyLO5njM9hDNcfrtwyFcJg==
+2023-12-24 22:54:42.270734|INFO    |              |   |No image, refusing to display
+2023-12-24 22:55:25.772629|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:55:25.772629|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:55:25.772629|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:55:25.773629|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:55:25.773629|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Alto-falantes (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:55:25.773629|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Alto-falantes (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:55:25.773629|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:55:25.773629|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:55:25.774629|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 22:55:25.774629|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 22:55:25.801632|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 22:55:25.801632|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:55:25.802631|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:55:25.804630|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 2 - Alto-falantes (Trust GXT 363 headset)
+2023-12-24 22:55:25.804630|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Alto-falantes (Trust GXT 363 headset)
+2023-12-24 22:55:25.830633|INFO    |Windows Audio Session|   |Initialized with 2 channels in 32bit, 48kHz. - Alto-falantes (Trust GXT 363 headset)
+2023-12-24 22:55:25.830633|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Alto-falantes (Trust GXT 363 headset)
+2023-12-24 22:55:25.830633|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:55:25.830633|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:55:25.831633|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:55:27.060724|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 22:55:38.520670|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:55:38.520670|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:55:38.520670|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:55:38.520670|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:55:38.520670|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:55:38.520670|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:55:38.520670|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 22:55:38.520670|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:55:38.520670|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 22:55:38.528672|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 22:55:38.528672|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:55:38.528672|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:55:38.530669|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 22:55:38.530669|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 22:55:38.542673|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 22:55:38.542673|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 22:55:38.542673|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:55:38.542673|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:55:38.554671|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:56:01.479167|INFO    |GUI_Setup     |   |Setting style to: Fusion
+2023-12-24 22:56:01.615077|INFO    |GUI_Setup     |   |Loading stylesheet: default
+2023-12-24 22:56:04.731727|INFO    |ClientUI      |1  |Connect status: Disconnected
+2023-12-24 22:56:04.733340|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2023-12-24 22:56:05.697368|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:56:05.697368|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:56:05.697368|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:56:05.697368|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:56:05.697368|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:56:05.697368|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Alto-falantes (Trust GXT 363 headset) - DeviceDeleteList
+2023-12-24 22:56:05.697368|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Alto-falantes (Trust GXT 363 headset) - DeviceDeleteList
+2023-12-24 22:56:05.697368|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 22:56:05.697368|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:56:05.697368|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:56:05.697368|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 22:56:05.700370|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:56:05.700370|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 22:56:05.829378|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:56:05.829378|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:56:05.829378|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:56:05.829378|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:56:05.829378|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:56:05.829378|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 22:56:05.829378|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:56:05.829378|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:56:05.829378|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 22:56:05.833381|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 22:56:05.833381|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:56:05.833381|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:56:05.833381|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList

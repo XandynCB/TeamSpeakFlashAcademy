@@ -1,0 +1,303 @@
+
+
+==================================================================================================================================
+
+2023-12-27 17:26:33.176069|INFO    |              |   |TeamSpeak Client 3.5.6 (2020-11-25 13:53:42)
+2023-12-27 17:26:33.177067|INFO    |              |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2023-12-27 17:26:33.177067|INFO    |              |   |Using hardware aes
+2023-12-27 17:26:33.225070|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms - 
+2023-12-27 17:26:33.275073|INFO    |              |   |*** Time [SPAWN_EVENTCONVERTER]: 101
+2023-12-27 17:26:33.362727|INFO    |ClientUI      |   |OpenGL Info: LibGLES, Vendor: Google Inc., Renderer: ANGLE (NVIDIA GeForce RTX 3050 Direct3D11 vs_5_0 ps_5_0), Version: OpenGL ES 2.0 (ANGLE 2.1.0.57ea533f79a7)
+2023-12-27 17:26:33.763756|INFO    |              |   |*** Time [ICONMANGER]: 387
+2023-12-27 17:26:33.779756|INFO    |Addons        |   |Checking for addon updates...
+2023-12-27 17:26:33.905765|INFO    |Plugins       |   |Loading plugin: clientquery_plugin_win64.dll
+2023-12-27 17:26:33.927766|INFO    |Query         |   |listening on 127.0.0.1:25639
+2023-12-27 17:26:33.927766|INFO    |Plugins       |   |Loading plugin: gamepad_joystick_win64.dll
+2023-12-27 17:26:34.146912|INFO    |Gamepad Plugin|   |Found client raw input wnd proc
+2023-12-27 17:26:34.147913|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:26:34.149914|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:26:34.151914|INFO    |Plugins       |   |Loading plugin: tokovoip_win64.dll
+2023-12-27 17:26:34.159914|INFO    |Addon         |   |Addon up to date.
+2023-12-27 17:26:34.244920|INFO    |TokoVOIP      |141|TokoVOIP initialized
+2023-12-27 17:26:34.244920|INFO    |TokoVOIP      |141|Can't get current channel : invalid server connection handler ID
+2023-12-27 17:26:34.245920|INFO    |TokoVOIP      |141|Error getting all clients from the server : invalid server connection handler ID
+2023-12-27 17:26:34.245920|INFO    |TokoVOIP      |141|Can't get current channel : invalid server connection handler ID
+2023-12-27 17:26:34.245920|INFO    |TokoVOIP      |141|Error getting all clients from the server : invalid server connection handler ID
+2023-12-27 17:26:34.245920|INFO    |TokoVOIP      |141|Error getting all clients from server : invalid server connection handler ID
+2023-12-27 17:26:34.394931|INFO    |Addon         |   |Addon up to date.
+2023-12-27 17:26:34.633110|INFO    |Addon         |   |Addon up to date.
+2023-12-27 17:26:34.834123|INFO    |TokoVOIP      |141|Got update json
+2023-12-27 17:26:34.835124|INFO    |TokoVoip      |   |init
+2023-12-27 17:26:34.841123|INFO    |TokoVoip      |   |No translation available.
+2023-12-27 17:26:34.841123|INFO    |TokoVoip      |   |Radio: enabled: true
+2023-12-27 17:26:34.841123|INFO    |TokoVoip      |   |init done
+2023-12-27 17:26:34.841123|INFO    |Plugins       |   |Loading plugin: teamspeak_control_plugin_win64.dll
+2023-12-27 17:26:34.856124|INFO    |ControlPlugin |   |Control Plugin started, accepting connections
+2023-12-27 17:26:34.856124|INFO    |              |   |*** Time [PLUGINS]: 952
+2023-12-27 17:26:35.131665|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-27 17:26:35.131665|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-27 17:26:36.847229|INFO    |              |   |*** Time [BUILD_GUI]: 1673
+2023-12-27 17:26:36.935793|INFO    |              |   |*** Time [SERVERVIEW]: 1810
+2023-12-27 17:26:36.976796|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 1867
+2023-12-27 17:26:37.225332|INFO    |              |   |*** Time [MAINWINDOW]: 4061
+2023-12-27 17:26:37.225332|INFO    |              |   |*** Time [INIT]: 4062
+2023-12-27 17:26:37.371860|INFO    |              |   |*** Time [NOTIFICATIONS]: 147
+2023-12-27 17:26:37.371860|INFO    |ClientUI      |   |Qt version: 5.12.3
+2023-12-27 17:26:37.371860|INFO    |ClientUI      |   |Using configuration location: C:\Users\Xandynn\AppData\Roaming\TS3Client\settings.db
+2023-12-27 17:26:37.724886|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2023-12-27 17:26:37.726887|INFO    |ClientUI      |   |Last update check was: ter dez 26 23:52:23 2023
+2023-12-27 17:26:37.737887|INFO    |Update        |   |Checking for updates...
+2023-12-27 17:26:38.296238|INFO    |Newsticker    |   |Newsticker next check: qua dez 27 23:52:24 2023
+2023-12-27 17:26:38.324240|INFO    |Update        |   |License update available; version 5 to 5 (min version 5 to 4)
+2023-12-27 17:26:38.325242|INFO    |Update        |   |Latest client release on channel 'stable': 3.6.2 [Build: 1695203293]
+2023-12-27 17:26:38.325242|INFO    |Update        |   |Client update available; build 1606312422 to 1695203293
+2023-12-27 17:26:39.531589|INFO    |              |   |Statistics report: Not yet, next report on sÃ¡b jan 20 00:08:42 2024
+2023-12-27 17:26:40.509295|INFO    |ClientUI      |1  |Connect to server: flashac
+2023-12-27 17:26:40.521814|INFO    |ClientUI      |1  |Trying to resolve flashac
+2023-12-27 17:26:40.521814|INFO    |TSDNS         |   |Trying to resolve server name: flashac
+2023-12-27 17:26:40.646984|INFO    |TSDNS         |   |Server name successfully resolved
+2023-12-27 17:26:40.646984|INFO    |TSDNS         |   |Lookup: 3002.tsfivem.com.br, parse result: DNS 3002.tsfivem.com.br 9987
+2023-12-27 17:26:40.646984|INFO    |TSDNS         |   |Server name resolved to host: 3002.tsfivem.com.br 9987
+2023-12-27 17:26:40.725690|INFO    |TSDNS         |   |A/AAAA DNS resolve unsuccessful, "tsfivem.com.br" DNS server returned answer with no data
+2023-12-27 17:26:40.784693|INFO    |TSDNS         |   |SRV DNS resolve successful, "_ts3._udp.3002.tsfivem.com.br" =(h: _dc-srv.5316a1067a00._ts3._udp.3002.tsfivem.com.br p:3002)
+2023-12-27 17:26:40.828699|INFO    |TSDNS         |   |A/AAAA DNS resolve successful, "_dc-srv.5316a1067a00._ts3._udp.3002.tsfivem.com.br" =(h: 149.56.44.237 p:0)
+2023-12-27 17:26:40.828699|INFO    |ClientUI      |1  |Lookup finished: ip=149.56.44.237 port=3002 query=3002.tsfivem.com.br error=0
+2023-12-27 17:26:40.828699|INFO    |ClientUI      |1  |Resolve successful: 149.56.44.237:3002
+2023-12-27 17:26:40.828699|INFO    |ClientUI      |1  |Initiating connection: 149.56.44.237:3002
+2023-12-27 17:26:40.839697|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-27 17:26:40.839697|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-27 17:26:40.839697|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.0.00000000}.{7e87e3c3-6a33-4554-9090-ea13d38d5d7c}
+2023-12-27 17:26:40.846702|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 2 - Alto-falantes (2- Trust GXT 363 headset)
+2023-12-27 17:26:40.846702|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Alto-falantes (2- Trust GXT 363 headset)
+2023-12-27 17:26:40.866701|INFO    |Windows Audio Session|   |Initialized with 2 channels in 32bit, 48kHz. - Alto-falantes (2- Trust GXT 363 headset)
+2023-12-27 17:26:40.866701|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Alto-falantes (2- Trust GXT 363 headset)
+2023-12-27 17:26:40.866701|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.0.00000000}.{7e87e3c3-6a33-4554-9090-ea13d38d5d7c}
+2023-12-27 17:26:40.866701|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.0.00000000}.{7e87e3c3-6a33-4554-9090-ea13d38d5d7c}
+2023-12-27 17:26:40.867702|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.0.00000000}.{7e87e3c3-6a33-4554-9090-ea13d38d5d7c}
+2023-12-27 17:26:40.902703|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-27 17:26:40.902703|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-27 17:26:40.902703|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{3b3c5f6a-fb1b-464b-8908-37c9a9749ee5}
+2023-12-27 17:26:40.904703|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microfone (2- Trust GXT 363 headset)
+2023-12-27 17:26:40.904703|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microfone (2- Trust GXT 363 headset)
+2023-12-27 17:26:40.944709|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microfone (2- Trust GXT 363 headset)
+2023-12-27 17:26:40.944709|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microfone (2- Trust GXT 363 headset)
+2023-12-27 17:26:40.945708|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{3b3c5f6a-fb1b-464b-8908-37c9a9749ee5}
+2023-12-27 17:26:40.946707|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{3b3c5f6a-fb1b-464b-8908-37c9a9749ee5}
+2023-12-27 17:26:40.947707|INFO    |TSDNS         |   |A/AAAA DNS resolve successful, "3002.tsfivem.com.br" =(h: 104.21.32.147 p:0)
+2023-12-27 17:26:40.951708|INFO    |TSDNS         |   |A/AAAA DNS resolve for possible TSDNS successful, "3002.tsfivem.com.br" =(h: 172.67.186.233 p:0)
+2023-12-27 17:26:40.952707|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{3b3c5f6a-fb1b-464b-8908-37c9a9749ee5}
+2023-12-27 17:26:40.986708|INFO    |ClientUI      |1  |Connect status: Connecting
+2023-12-27 17:26:41.083716|INFO    |TSDNS         |   |SRV DNS resolve unsuccessful, "_tsdns._tcp.tsfivem.com.br" Domain name not found
+2023-12-27 17:26:41.268731|DEVELOP |PktHandler    |1  |Puzzle solve time: 0
+2023-12-27 17:26:41.479350|INFO    |TokoVOIP      |141|Can't get current channel : not connected
+2023-12-27 17:26:41.479350|INFO    |TokoVOIP      |141|Error getting all clients from the server : not connected
+2023-12-27 17:26:41.479350|INFO    |TokoVOIP      |141|Can't get channel of client : not connected
+2023-12-27 17:26:41.718369|INFO    |ClientUI      |1  |Connect status: Connected
+2023-12-27 17:26:41.727369|INFO    |              |   |Failed to read image C:/Users/Xandynn/AppData/Roaming/TS3Client/cache/remote/1H7yAwDB1A1HM0A0Ni_hd+7kE0FCF0AtNeiXcfPaSgkuW63Fub2pjia_aCKhikXJuyLO5njM9hDNcfrtwyFcJg==
+2023-12-27 17:26:42.953530|INFO    |TSDNS         |   |TSDNS queried unsuccessfully 172.67.186.233:41144
+2023-12-27 17:26:42.953530|INFO    |TSDNS         |   |No TSDNS found
+2023-12-27 17:26:43.002621|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2023-12-27 17:26:43.011622|INFO    |ClientUI      |1  |Connect status: Connection established
+2023-12-27 17:26:43.552473|INFO    |              |   |Failed to read image C:/Users/Xandynn/AppData/Roaming/TS3Client/cache/remote/1H7yAwDB1A1HM0A0Ni_hd+7kE0FCF0AtNeiXcfPaSgkuW63Fub2pjia_aCKhikXJuyLO5njM9hDNcfrtwyFcJg==
+2023-12-27 17:26:43.553477|INFO    |              |   |No image, refusing to display
+2023-12-27 17:41:07.257284|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:41:07.259284|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:41:37.221911|INFO    |              |   |Memory usage: 76.85 MiB
+2023-12-27 17:43:46.679406|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:43:46.690409|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:43:46.754413|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:43:46.802416|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:43:47.107440|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:43:47.107440|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:43:47.199448|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:43:47.295456|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:43:49.175471|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:43:49.175471|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:43:49.491495|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:43:49.492493|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:43:49.504495|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:43:49.506498|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:43:49.547499|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:43:49.548500|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:43:49.621138|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:43:49.622136|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:47:34.510116|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:47:34.528119|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:47:34.531120|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:47:34.691130|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:47:34.810138|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:47:34.810138|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:47:36.303250|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:47:36.443259|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:47:36.906295|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:47:36.907295|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:47:37.488824|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:47:37.489829|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:47:37.509827|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:47:37.511826|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:47:37.620834|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:47:37.621834|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:47:37.692839|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:47:37.695841|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:48:40.064555|ERROR   |TokoVoip      |1  |Error checking if client is query.: invalid clientID
+2023-12-27 17:48:40.066556|WARNING |TokoVoip      |   |TSLogging::PlayErrorSound:No query (GetSoundPack) (q_query.exec()) Não foi possível obter a linha
+2023-12-27 17:52:15.412980|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:15.416979|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:15.431979|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:52:15.555988|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:52:16.738076|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:52:16.857085|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:52:18.337055|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:18.339057|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:52:18.354057|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:18.355058|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:52:18.413064|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:18.415063|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:52:18.460067|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:18.461066|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:52:24.137336|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:24.156337|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:24.217342|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:52:24.437357|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:52:24.680374|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:52:24.680374|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:52:25.218414|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:52:25.491436|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:52:26.735467|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:52:26.735467|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:52:27.352513|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:27.353513|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:52:27.371515|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:27.375514|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:52:27.509524|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:27.513524|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:52:29.611497|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:29.619498|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:52:29.624499|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:29.705020|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:29.750022|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:52:29.843029|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:52:29.843029|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:52:30.259060|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:52:30.355067|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:52:31.896416|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:52:31.896416|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:52:32.447456|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:32.448456|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:52:32.462457|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:32.465458|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:52:32.566466|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:32.568467|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:52:32.609469|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:52:32.611470|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:55:28.232902|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:55:28.234903|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:55:28.244905|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:55:28.357912|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:55:29.180688|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:55:29.180688|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:55:29.367700|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:55:29.476706|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:55:31.132831|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:55:31.134829|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:55:31.157831|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:55:31.160832|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:55:31.299841|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:55:31.299841|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:55:31.306842|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:55:31.308842|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:55:31.322843|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:55:31.326844|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:56:37.218549|INFO    |              |   |Memory usage: 78.56 MiB
+2023-12-27 17:56:41.590750|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:56:41.594751|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:56:41.631752|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:56:41.742761|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:56:41.795766|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:56:42.191310|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:56:42.374326|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:56:44.525483|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:56:44.526482|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:56:44.539484|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:56:44.540483|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:56:44.680495|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:56:44.681496|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:56:44.696495|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:56:44.698496|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:13.156632|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:13.177633|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:13.223636|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:59:13.387681|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:59:13.830227|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:59:13.830227|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:59:13.863228|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:59:14.042243|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:59:14.969761|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:59:14.969761|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:59:16.231409|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:16.233408|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:16.258410|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:16.260410|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:16.347419|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:16.349418|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:27.877775|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:59:27.908776|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:27.924780|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:27.995782|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:59:28.075790|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:59:28.075790|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:59:28.795527|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:59:28.888535|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:59:29.119550|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-27 17:59:29.119550|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-27 17:59:30.643665|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:30.644665|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:30.667667|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:30.669667|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:30.705670|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:30.706670|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:30.752674|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:30.753674|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:34.230679|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:34.233680|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:34.257683|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:59:34.318687|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:34.370514|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:59:34.841812|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-27 17:59:34.941818|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-27 17:59:37.037915|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:37.039913|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:37.048915|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:37.049913|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:37.079917|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:37.080917|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:37.095919|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 17:59:37.097919|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 17:59:41.966500|INFO    |ClientUI      |1  |Connect status: Disconnected
+2023-12-27 17:59:41.979501|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2023-12-27 17:59:42.942083|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{3b3c5f6a-fb1b-464b-8908-37c9a9749ee5}
+2023-12-27 17:59:42.942083|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{3b3c5f6a-fb1b-464b-8908-37c9a9749ee5}
+2023-12-27 17:59:42.942083|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.0.00000000}.{7e87e3c3-6a33-4554-9090-ea13d38d5d7c}
+2023-12-27 17:59:42.942083|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.0.00000000}.{7e87e3c3-6a33-4554-9090-ea13d38d5d7c}
+2023-12-27 17:59:42.942083|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.0.00000000}.{7e87e3c3-6a33-4554-9090-ea13d38d5d7c}
+2023-12-27 17:59:42.942083|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Alto-falantes (2- Trust GXT 363 headset) - DeviceDeleteList
+2023-12-27 17:59:42.942083|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Alto-falantes (2- Trust GXT 363 headset) - DeviceDeleteList
+2023-12-27 17:59:42.942083|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.0.00000000}.{7e87e3c3-6a33-4554-9090-ea13d38d5d7c}
+2023-12-27 17:59:42.942083|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-27 17:59:42.942083|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-27 17:59:42.942083|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-27 17:59:42.947085|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-27 17:59:42.947085|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-27 17:59:43.077096|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{3b3c5f6a-fb1b-464b-8908-37c9a9749ee5}
+2023-12-27 17:59:43.077096|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{3b3c5f6a-fb1b-464b-8908-37c9a9749ee5}
+2023-12-27 17:59:43.077096|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{3b3c5f6a-fb1b-464b-8908-37c9a9749ee5}
+2023-12-27 17:59:43.077096|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microfone (2- Trust GXT 363 headset) - DeviceDeleteList
+2023-12-27 17:59:43.077096|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microfone (2- Trust GXT 363 headset) - DeviceDeleteList
+2023-12-27 17:59:43.077096|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-27 17:59:43.077096|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{3b3c5f6a-fb1b-464b-8908-37c9a9749ee5}
+2023-12-27 17:59:43.077096|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-27 17:59:43.077096|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-27 17:59:43.080095|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-27 17:59:43.080095|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-27 17:59:43.081097|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-27 17:59:43.081097|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList

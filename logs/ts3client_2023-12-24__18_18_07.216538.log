@@ -1,0 +1,774 @@
+
+
+==================================================================================================================================
+
+2023-12-24 21:18:07.217041|INFO    |              |   |TeamSpeak Client 3.5.6 (2020-11-25 13:53:42)
+2023-12-24 21:18:07.217558|INFO    |              |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2023-12-24 21:18:07.217558|INFO    |              |   |Using hardware aes
+2023-12-24 21:18:07.260758|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms - 
+2023-12-24 21:18:07.320556|INFO    |              |   |*** Time [SPAWN_EVENTCONVERTER]: 105
+2023-12-24 21:18:07.413015|INFO    |ClientUI      |   |OpenGL Info: LibGLES, Vendor: Google Inc., Renderer: ANGLE (NVIDIA GeForce RTX 3050 Direct3D11 vs_5_0 ps_5_0), Version: OpenGL ES 2.0 (ANGLE 2.1.0.57ea533f79a7)
+2023-12-24 21:18:07.696426|INFO    |              |   |*** Time [ICONMANGER]: 268
+2023-12-24 21:18:07.701454|INFO    |Addons        |   |Checking for addon updates...
+2023-12-24 21:18:07.758738|INFO    |Plugins       |   |Loading plugin: teamspeak_control_plugin_win64.dll
+2023-12-24 21:18:07.766777|INFO    |ControlPlugin |   |Control Plugin started, accepting connections
+2023-12-24 21:18:07.766777|INFO    |Plugins       |   |Loading plugin: gamepad_joystick_win64.dll
+2023-12-24 21:18:07.846172|INFO    |Gamepad Plugin|   |Found client raw input wnd proc
+2023-12-24 21:18:07.846676|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:18:07.848685|INFO    |Plugins       |   |Loading plugin: clientquery_plugin_win64.dll
+2023-12-24 21:18:07.849690|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:18:07.859743|INFO    |Query         |   |listening on 127.0.0.1:25639
+2023-12-24 21:18:07.859743|INFO    |Plugins       |   |Loading plugin: tokovoip_win64.dll
+2023-12-24 21:18:07.872303|INFO    |TokoVOIP      |141|TokoVOIP initialized
+2023-12-24 21:18:07.872805|INFO    |TokoVOIP      |141|Can't get current channel : invalid server connection handler ID
+2023-12-24 21:18:07.872805|INFO    |TokoVOIP      |141|Error getting all clients from the server : invalid server connection handler ID
+2023-12-24 21:18:07.872805|INFO    |TokoVOIP      |141|Can't get current channel : invalid server connection handler ID
+2023-12-24 21:18:07.872805|INFO    |TokoVOIP      |141|Error getting all clients from the server : invalid server connection handler ID
+2023-12-24 21:18:07.872805|INFO    |TokoVOIP      |141|Error getting all clients from server : invalid server connection handler ID
+2023-12-24 21:18:08.065263|INFO    |Addon         |   |Addon up to date.
+2023-12-24 21:18:08.302448|INFO    |Addon         |   |Addon up to date.
+2023-12-24 21:18:08.480833|INFO    |TokoVOIP      |141|Got update json
+2023-12-24 21:18:08.481336|INFO    |TokoVoip      |   |init
+2023-12-24 21:18:08.482340|INFO    |TokoVoip      |   |No translation available.
+2023-12-24 21:18:08.482842|INFO    |TokoVoip      |   |Radio: enabled: true
+2023-12-24 21:18:08.482842|INFO    |TokoVoip      |   |init done
+2023-12-24 21:18:08.482842|INFO    |              |   |*** Time [PLUGINS]: 725
+2023-12-24 21:18:08.537615|INFO    |Addon         |   |Addon up to date.
+2023-12-24 21:18:08.578318|INFO    |              |   |successfully downloaded revocation list for accounting
+2023-12-24 21:18:08.623042|INFO    |              |   |successfully downloaded revocation list for myteamspeak id
+2023-12-24 21:18:08.629071|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:18:08.629071|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:18:09.363227|INFO    |              |   |*** Time [BUILD_GUI]: 723
+2023-12-24 21:18:09.400913|INFO    |              |   |*** Time [SERVERVIEW]: 774
+2023-12-24 21:18:09.417999|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 807
+2023-12-24 21:18:09.568248|INFO    |              |   |*** Time [MAINWINDOW]: 2372
+2023-12-24 21:18:09.568248|INFO    |              |   |*** Time [INIT]: 2372
+2023-12-24 21:18:09.584831|INFO    |ClientUI      |   |Qt version: 5.12.3
+2023-12-24 21:18:09.585333|INFO    |ClientUI      |   |Using configuration location: C:\Users\Xandynn\AppData\Roaming\TS3Client\settings.db
+2023-12-24 21:18:10.068237|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2023-12-24 21:18:10.070751|INFO    |ClientUI      |   |Last update check was: dom dez 24 00:30:03 2023
+2023-12-24 21:18:10.071252|INFO    |              |   |Statistics report: Not yet, next report on sáb jan 20 00:08:42 2024
+2023-12-24 21:18:10.587321|INFO    |Newsticker    |   |Newsticker next check: seg dez 25 00:30:05 2023
+2023-12-24 21:18:10.823497|INFO    |ClientUI      |1  |Connect to server: flashac
+2023-12-24 21:18:10.829024|INFO    |ClientUI      |1  |Trying to resolve flashac
+2023-12-24 21:18:10.829527|INFO    |TSDNS         |   |Trying to resolve server name: flashac
+2023-12-24 21:18:10.974750|INFO    |TSDNS         |   |Server name successfully resolved
+2023-12-24 21:18:10.974750|INFO    |TSDNS         |   |Lookup: 3002.tsfivem.com.br, parse result: DNS 3002.tsfivem.com.br 9987
+2023-12-24 21:18:10.974750|INFO    |TSDNS         |   |Server name resolved to host: 3002.tsfivem.com.br 9987
+2023-12-24 21:18:11.157159|INFO    |TSDNS         |   |A/AAAA DNS resolve unsuccessful, "tsfivem.com.br" DNS server returned answer with no data
+2023-12-24 21:18:11.266704|INFO    |TSDNS         |   |SRV DNS resolve successful, "_ts3._udp.3002.tsfivem.com.br" =(h: _dc-srv.5316a1067a00._ts3._udp.3002.tsfivem.com.br p:3002)
+2023-12-24 21:18:11.274242|INFO    |TSDNS         |   |A/AAAA DNS resolve successful, "3002.tsfivem.com.br" =(h: 172.67.186.233 p:0)
+2023-12-24 21:18:11.314443|INFO    |TSDNS         |   |A/AAAA DNS resolve for possible TSDNS successful, "3002.tsfivem.com.br" =(h: 172.67.186.233 p:0)
+2023-12-24 21:18:11.359165|INFO    |TSDNS         |   |SRV DNS resolve unsuccessful, "_tsdns._tcp.tsfivem.com.br" Domain name not found
+2023-12-24 21:18:11.392331|INFO    |TSDNS         |   |A/AAAA DNS resolve successful, "_dc-srv.5316a1067a00._ts3._udp.3002.tsfivem.com.br" =(h: 149.56.44.237 p:0)
+2023-12-24 21:18:11.392834|INFO    |ClientUI      |1  |Lookup finished: ip=149.56.44.237 port=3002 query=3002.tsfivem.com.br error=0
+2023-12-24 21:18:11.393336|INFO    |ClientUI      |1  |Resolve successful: 149.56.44.237:3002
+2023-12-24 21:18:11.393336|INFO    |ClientUI      |1  |Initiating connection: 149.56.44.237:3002
+2023-12-24 21:18:11.407405|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:18:11.407405|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:18:11.407405|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:18:11.413938|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 2 - Alto-falantes (SHEM-BOY)
+2023-12-24 21:18:11.414441|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Alto-falantes (SHEM-BOY)
+2023-12-24 21:18:11.437558|INFO    |Windows Audio Session|   |Initialized with 2 channels in 32bit, 48kHz. - Alto-falantes (SHEM-BOY)
+2023-12-24 21:18:11.437558|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Alto-falantes (SHEM-BOY)
+2023-12-24 21:18:11.437558|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:18:11.438059|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:18:11.447104|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:18:11.549112|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:18:11.549112|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:18:11.549112|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:18:11.552632|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 21:18:11.552632|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 21:18:11.590316|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 21:18:11.590316|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 21:18:11.590316|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:18:11.591321|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:18:11.616449|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:18:11.693332|INFO    |ClientUI      |1  |Connect status: Connecting
+2023-12-24 21:18:11.950107|DEVELOP |PktHandler    |1  |Puzzle solve time: 0
+2023-12-24 21:18:12.399345|INFO    |ClientUI      |1  |Connect status: Connected
+2023-12-24 21:18:12.404875|INFO    |              |   |Failed to read image C:/Users/Xandynn/AppData/Roaming/TS3Client/cache/remote/1H7yAwDB1A1HM0A0Ni_hd+7kE0FCF0AtNeiXcfPaSgkuW63Fub2pjia_aCKhikXJuyLO5njM9hDNcfrtwyFcJg==
+2023-12-24 21:18:12.556629|DEBUG   |Windows Audio Session|   |[Playback] RenderDeviceContext inner loop lasted > 20 ms 26 - Alto-falantes (SHEM-BOY)
+2023-12-24 21:18:13.314902|INFO    |TSDNS         |   |TSDNS queried unsuccessfully 172.67.186.233:41144
+2023-12-24 21:18:13.314902|INFO    |TSDNS         |   |No TSDNS found
+2023-12-24 21:18:13.540526|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2023-12-24 21:18:13.546555|INFO    |ClientUI      |1  |Connect status: Connection established
+2023-12-24 21:18:13.792279|INFO    |              |   |Failed to read image C:/Users/Xandynn/AppData/Roaming/TS3Client/cache/remote/1H7yAwDB1A1HM0A0Ni_hd+7kE0FCF0AtNeiXcfPaSgkuW63Fub2pjia_aCKhikXJuyLO5njM9hDNcfrtwyFcJg==
+2023-12-24 21:18:13.792279|INFO    |              |   |No image, refusing to display
+2023-12-24 21:22:11.983417|INFO    |              |   |tried to request user integration info without valid session
+2023-12-24 21:22:22.458574|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:22:22.458574|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:22:22.458574|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:22:22.459076|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:22:22.459076|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:22:22.459076|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Alto-falantes (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:22:22.459076|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Alto-falantes (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:22:22.459076|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:22:22.459076|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:22:22.459076|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 21:22:22.459582|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 21:22:22.490231|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:22:22.490231|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 21:22:22.490231|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 21:22:22.492245|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 2 - Alto-falantes (Trust GXT 363 headset)
+2023-12-24 21:22:22.492245|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Alto-falantes (Trust GXT 363 headset)
+2023-12-24 21:22:22.515358|INFO    |Windows Audio Session|   |Initialized with 2 channels in 32bit, 48kHz. - Alto-falantes (Trust GXT 363 headset)
+2023-12-24 21:22:22.515859|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Alto-falantes (Trust GXT 363 headset)
+2023-12-24 21:22:22.515859|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 21:22:22.515859|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 21:22:22.516867|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 21:22:25.517307|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:22:25.517307|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:22:25.517307|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:22:25.517307|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:22:25.517307|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:22:25.517307|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 21:22:25.517307|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:22:25.517808|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:22:25.517808|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 21:22:25.523334|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 21:22:25.523334|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:22:25.523334|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:22:25.525344|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 21:22:25.525344|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 21:22:25.530873|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 21:22:25.530873|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 21:22:25.530873|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:22:25.531374|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:22:25.536403|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:25:22.631891|INFO    |TokoVOIP      |141|Lost connection: plugin timed out client
+2023-12-24 21:30:18.517542|INFO    |TokoVOIP      |141|Lost connection: plugin timed out client
+2023-12-24 21:33:09.571896|INFO    |              |   |Memory usage: 159.75 MiB
+2023-12-24 21:33:12.446720|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:12.446720|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:12.470723|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:12.470723|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:12.470723|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:12.470723|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:12.470723|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:33:12.470723|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:33:12.470723|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:12.470723|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 21:33:12.470723|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:33:12.471721|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 21:33:12.480723|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 21:33:12.480723|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:33:12.481723|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 21:33:12.481723|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 21:33:12.521724|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:33:12.523725|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 21:33:12.608731|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 21:33:12.608731|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:33:12.608731|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {C6527791-070E-4AA4-9DED-C9604817C7DF}
+2023-12-24 21:33:12.608731|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:33:14.683091|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:14.739096|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:20.851087|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:21.761086|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:23.687085|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:23.702086|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:44.847083|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:44.864083|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:45.603998|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:45.628000|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:45.639003|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:45.651002|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:45.735833|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:45.757835|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:45.758835|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:33:45.774190|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:45.778191|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:45.862197|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:45.864197|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:33:45.869198|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 21:33:45.869198|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 21:33:45.885199|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 21:33:45.885199|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 21:33:45.886200|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:45.886200|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:45.897200|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:45.897200|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:45.897200|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:45.897200|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:33:45.897200|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:33:45.901199|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:33:46.475200|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:33:46.476199|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:33:47.671394|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:33:47.671394|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:33:47.671394|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:33:47.671394|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:45:06.521768|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:06.521768|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:06.551768|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:06.551768|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:06.551768|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:06.551768|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:06.551768|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:45:06.551768|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:45:06.551768|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:06.551768|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 21:45:06.551768|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:45:06.551768|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 21:45:06.567769|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 21:45:06.567769|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:45:06.567769|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 21:45:06.568771|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 21:45:06.623774|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:45:06.624774|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 21:45:07.099292|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 21:45:07.099292|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:45:07.099292|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {C6527791-070E-4AA4-9DED-C9604817C7DF}
+2023-12-24 21:45:07.099292|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:45:08.324859|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:08.413865|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:08.455869|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:08.457869|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:45:08.474870|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:08.476871|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:45:08.512874|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.517874|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.599879|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:08.600880|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:45:08.619884|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:08.619884|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 21:45:08.619884|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 21:45:08.621885|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:45:08.643883|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 21:45:08.646884|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 21:45:08.646884|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.646884|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.658884|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.658884|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.658884|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.658884|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.658884|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:45:08.662885|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:45:08.887907|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:08.888905|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:08.906905|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.906905|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.906905|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.906905|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.906905|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:45:08.907906|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:45:08.907906|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:08.907906|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:45:08.907906|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 21:45:08.907906|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 21:45:08.913907|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 21:45:08.914907|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:45:08.914907|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 21:45:08.914907|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 21:45:08.958909|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:45:08.958909|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 21:45:09.297127|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:09.483034|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:09.520487|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:09.589490|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:09.617493|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:09.618493|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:45:09.634492|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:09.635492|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:45:09.658494|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:09.663495|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:09.742501|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:09.743501|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:45:09.754505|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 21:45:09.755503|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 21:45:09.760502|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:45:09.762503|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:45:09.768503|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 21:45:09.768503|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 21:45:09.769506|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:09.769506|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:09.784504|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:09.784504|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:09.784504|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:09.784504|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:45:09.784504|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:45:09.787504|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:45:11.166010|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:45:11.166010|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:45:11.166010|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:45:11.166010|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:48:09.564999|INFO    |              |   |Memory usage: 158.54 MiB
+2023-12-24 21:49:42.671791|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:42.671791|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:42.695793|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:42.695793|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:42.695793|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:42.695793|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:42.696793|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:49:42.696793|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:49:42.696793|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 21:49:42.696793|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:42.696793|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:49:42.696793|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 21:49:42.706795|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 21:49:42.706795|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:49:42.706795|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 21:49:42.706795|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 21:49:42.749795|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:49:42.750798|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 21:49:43.344998|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 21:49:43.344998|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:49:43.344998|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {C6527791-070E-4AA4-9DED-C9604817C7DF}
+2023-12-24 21:49:43.344998|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:49:44.582181|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:44.624184|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:44.644186|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:44.707191|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:44.745195|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:44.746195|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:49:44.792197|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:44.798198|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:45.103797|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 21:49:45.103797|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 21:49:45.121801|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:45.124801|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:49:45.148802|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:45.150802|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:49:45.160802|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 21:49:45.160802|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 21:49:45.160802|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:45.160802|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:45.174803|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:45.174803|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:45.174803|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:45.175806|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:45.176803|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:49:45.180806|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:49:45.413144|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:49:45.414145|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:49:45.414145|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:49:45.415145|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:49:48.073546|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:48.073546|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:48.122067|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:48.123067|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:48.123067|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:48.123067|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:48.123067|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:49:48.123067|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:49:48.123067|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:48.123067|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:49:48.123067|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 21:49:48.124068|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 21:49:48.130068|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:48.132069|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 21:49:48.132069|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:49:48.133068|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 21:49:48.133068|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 21:49:48.195724|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:49:48.196725|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 21:49:48.478941|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 21:49:48.478941|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:49:48.478941|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {C6527791-070E-4AA4-9DED-C9604817C7DF}
+2023-12-24 21:49:48.479941|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:49:49.638714|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:49.671460|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:49.692524|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:49.783167|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:49.817170|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:49.818169|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:49:49.844175|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:49.850176|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:49.976824|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:49:49.977824|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:49:50.007343|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 21:49:50.007343|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 21:49:50.032345|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 21:49:50.033344|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 21:49:50.033344|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:50.033344|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:50.046347|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:50.046347|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:50.046347|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:50.046347|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:49:50.047344|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:49:50.050344|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:49:51.541755|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:49:51.541755|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:49:51.541755|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:49:51.541755|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:50:15.859661|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:15.859661|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:15.881330|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:15.889333|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:15.889333|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:15.889333|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:15.890331|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:15.891332|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:50:15.892333|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:50:15.892333|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:15.892333|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:50:15.892333|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 21:50:15.892333|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 21:50:15.895332|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:50:15.895332|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 21:50:15.896332|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 21:50:15.896332|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 21:50:15.953512|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:50:15.954511|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 21:50:17.447556|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:17.464556|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:17.531075|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:17.560077|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:17.561078|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:50:17.602133|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:17.610132|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:17.755367|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:17.757366|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:50:17.768367|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 21:50:17.768367|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 21:50:17.784881|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:17.786884|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:50:17.795394|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 21:50:17.795394|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 21:50:17.796396|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:17.796396|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:17.808395|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:17.808940|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:17.808940|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:17.808940|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:17.808940|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:50:17.812395|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:50:17.856399|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 21:50:18.857691|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:50:36.267958|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:36.268958|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:36.295960|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:36.296960|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:36.296960|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:36.296960|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:36.296960|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:36.296960|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:50:36.296960|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 21:50:36.296960|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:36.297961|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 21:50:36.297961|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 21:50:36.297961|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 21:50:36.312961|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 21:50:36.312961|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 21:50:36.314964|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 21:50:36.314964|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 21:50:36.350845|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:50:36.351847|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 21:50:36.909514|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 21:50:36.909514|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:50:36.910513|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {C6527791-070E-4AA4-9DED-C9604817C7DF}
+2023-12-24 21:50:36.910513|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:50:39.999361|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:40.023395|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:40.044721|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:40.129727|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:40.156730|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:40.157729|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:50:40.182736|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:40.190738|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:40.286557|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:40.288556|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:50:40.303599|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 21:50:40.304600|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 21:50:40.304600|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 21:50:40.306598|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 21:50:40.324599|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 21:50:40.324599|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 21:50:40.324599|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:40.324599|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:40.338601|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:40.338601|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:40.338601|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:40.338601|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 21:50:40.338601|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:50:40.343600|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 21:50:41.028020|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:50:41.028020|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 21:50:41.028020|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 21:50:41.028020|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:02:57.245261|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:02:57.246263|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:02:57.275265|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:57.275265|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:57.276266|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:57.276266|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:57.276266|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:02:57.276266|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:02:57.276266|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:57.276266|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:02:57.276266|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 22:02:57.276266|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 22:02:57.290265|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:02:57.290265|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 22:02:57.290265|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 22:02:57.290265|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 22:02:57.350270|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:02:57.351270|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:02:57.429275|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 22:02:57.429275|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:02:57.429275|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {C6527791-070E-4AA4-9DED-C9604817C7DF}
+2023-12-24 22:02:57.429275|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:02:57.889110|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:02:57.941114|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:02:57.986117|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:02:58.059123|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:02:58.060123|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:02:58.097126|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:58.123128|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:58.254137|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:02:58.255137|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:02:58.269138|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 22:02:58.269138|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 22:02:58.306141|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 22:02:58.306141|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 22:02:58.306141|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:58.307143|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:58.326142|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:58.326142|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:58.326142|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:58.326142|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:02:58.326142|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:02:58.332142|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:02:58.461159|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:02:58.462159|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:02:58.462159|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:02:58.462159|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:02:59.369897|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:02:59.370896|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:03:09.572273|INFO    |              |   |Memory usage: 158.32 MiB
+2023-12-24 22:18:09.573073|INFO    |              |   |Memory usage: 158.30 MiB
+2023-12-24 22:18:34.202607|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:34.203607|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:34.224607|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:34.225608|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:34.225608|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:34.225608|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:34.226608|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:34.226608|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:18:34.226608|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:18:34.226608|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 22:18:34.226608|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:34.226608|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:18:34.226608|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 22:18:34.230608|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 22:18:34.230608|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:18:34.232609|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 22:18:34.232609|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 22:18:34.290612|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:18:34.291612|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:18:35.039209|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 22:18:35.039209|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:18:35.040210|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {C6527791-070E-4AA4-9DED-C9604817C7DF}
+2023-12-24 22:18:35.040210|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:18:36.321570|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:36.350573|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:42.398612|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:42.413614|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:46.169076|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:46.195078|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:46.210077|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:46.290550|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:46.312553|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:46.313553|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:18:46.334554|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:46.343556|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:46.412560|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:46.413559|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:18:46.422560|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 22:18:46.422560|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 22:18:46.431562|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:18:46.432563|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:18:46.442563|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 22:18:46.443563|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 22:18:46.443563|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:46.443563|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:46.455564|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:46.456563|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:46.456563|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:46.456563|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:18:46.456563|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:18:46.458563|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:18:48.079545|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:18:48.079545|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:18:48.079545|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:18:48.079545|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:19:47.541092|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:19:47.541092|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:19:47.578094|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:47.579095|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:47.579095|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:47.579095|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:47.579095|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:19:47.579095|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:19:47.579095|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 22:19:47.579095|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:47.579095|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:19:47.579095|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 22:19:47.582095|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:19:47.582095|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:19:47.601096|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:19:47.601096|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 22:19:47.601096|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 22:19:47.601096|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 22:19:47.657100|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:19:47.658101|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:19:48.090162|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:19:48.248175|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:19:48.250174|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:19:48.285176|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:19:48.287179|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:19:48.321179|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:48.326508|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:48.451601|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 22:19:48.483607|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:19:48.485604|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:19:48.516608|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:19:48.517609|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:19:48.522608|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 22:19:48.522608|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 22:19:48.543608|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 22:19:48.543608|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 22:19:48.543608|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:48.543608|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:48.561612|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:48.561612|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:48.561612|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:48.561612|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:19:48.561612|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:19:48.562611|INFO    |SoundDevManager|   |Direct Sound - Device removed{E6F91B5D-AA7F-4E85-B7E3-C9AA32CFA315}
+2023-12-24 22:19:48.565610|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:19:50.599068|INFO    |SoundDevManager|   |Direct Sound - Device added: {E6F91B5D-AA7F-4E85-B7E3-C9AA32CFA315}
+2023-12-24 22:19:50.600068|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:20:37.487210|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:20:37.499211|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:20:37.543215|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:37.543215|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:37.543215|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:37.543215|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:37.543215|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:20:37.543215|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:20:37.543215|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:37.543215|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:20:37.544216|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 22:20:37.545215|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 22:20:37.633223|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:20:37.633223|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 22:20:37.634220|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 22:20:37.637221|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 22:20:37.701225|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:20:37.701225|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:20:37.910243|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 22:20:37.910243|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:20:37.910243|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {C6527791-070E-4AA4-9DED-C9604817C7DF}
+2023-12-24 22:20:37.910243|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:20:39.158954|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:39.162955|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:39.309966|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 22:20:39.309966|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 22:20:39.488981|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 22:20:39.488981|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 22:20:39.488981|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:39.488981|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:39.513983|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:39.513983|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:39.514981|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:39.514981|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:20:39.514981|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:20:39.518982|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:20:39.872011|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:20:39.874009|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:20:39.879009|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:20:39.881008|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:20:40.125026|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:20:40.125026|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:20:40.125026|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:20:40.125026|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:20:40.132028|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:20:40.133029|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:20:40.143028|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:20:40.145028|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:23:23.805906|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:23:23.816907|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:23:23.839909|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:23.840909|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:23.840909|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:23.840909|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:23.840909|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:23:23.840909|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:23:23.840909|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 22:23:23.840909|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:23.840909|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:23:23.840909|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 22:23:23.853910|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:23:23.872910|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:23:23.873912|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{c6527791-070e-4aa4-9ded-c9604817c7df}
+2023-12-24 22:23:23.873912|DEVELOP |SoundDevManager|   |Regenerating from having no default device.
+2023-12-24 22:23:23.874911|DEBUG   |Windows Audio Session|   |[Playback] Got 3 or more rendering spaces in same loop 480 1056 576 - Alto-falantes (Trust GXT 363 headset)
+2023-12-24 22:23:23.872910|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 22:23:23.953398|INFO    |SoundDevManager|   |Windows Audio Session - Device removed{0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:23:23.955396|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:23:24.528438|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {8291ECB3-81C9-4324-9C45-B0B533B8E859}
+2023-12-24 22:23:24.528438|INFO    |SoundDevManager|   |Direct Sound - Device removed{CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:23:24.528438|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {C6527791-070E-4AA4-9DED-C9604817C7DF}
+2023-12-24 22:23:24.528438|INFO    |SoundDevManager|   |Direct Sound - Device removed{A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:23:25.130500|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:25.139503|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:25.261512|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-24 22:23:25.261512|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-24 22:23:25.276513|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-24 22:23:25.276513|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-24 22:23:25.276513|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:25.277512|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:25.287513|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:25.287513|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:25.287513|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:25.288512|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_CAPTURE - Default device changed: {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:23:25.288512|INFO    |SoundDevManager|   |Windows Audio Session - Device added: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:23:25.291513|INFO    |SoundDevManager|   |Windows Audio Session - DEVICETYPE_PLAYBACK - Default device changed: {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-24 22:23:26.569611|INFO    |SoundDevManager|   |Direct Sound - Device added: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:23:26.569611|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_PLAYBACK - Default device changed: {CA138024-A3C1-4A8A-99D8-D2B57BD82BB9}
+2023-12-24 22:23:26.569611|INFO    |SoundDevManager|   |Direct Sound - Device added: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:23:26.569611|INFO    |SoundDevManager|   |Direct Sound - DEVICETYPE_CAPTURE - Default device changed: {A5AA918F-2E55-43E8-BB08-D4A519355D71}
+2023-12-24 22:23:26.640614|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:23:26.641615|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:23:26.646615|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:23:26.647615|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:23:26.695619|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:23:26.697622|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:23:26.715928|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:23:26.717929|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:24:36.496712|INFO    |              |   |tried to request user integration info without valid session
+2023-12-24 22:33:09.582287|INFO    |              |   |Memory usage: 126.19 MiB
+2023-12-24 22:35:44.780546|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-24 22:35:44.782547|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-24 22:41:56.580992|INFO    |TokoVOIP      |141|Lost connection: plugin timed out client
+2023-12-24 22:44:36.078875|INFO    |              |   |tried to request user integration info without valid session
+2023-12-24 22:44:53.988374|INFO    |ClientUI      |1  |Connect status: Disconnected
+2023-12-24 22:44:53.990373|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2023-12-24 22:44:54.947768|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:44:54.947768|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:44:54.947768|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:44:54.947768|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:44:54.947768|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:44:54.947768|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Alto-falantes (Trust GXT 363 headset) - DeviceDeleteList
+2023-12-24 22:44:54.947768|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Alto-falantes (Trust GXT 363 headset) - DeviceDeleteList
+2023-12-24 22:44:54.947768|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.0.00000000}.{8291ecb3-81c9-4324-9c45-b0b533b8e859}
+2023-12-24 22:44:54.947768|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:44:54.947768|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 22:44:54.947768|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 22:44:54.949769|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:44:54.949769|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 22:44:55.491590|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:44:55.491590|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:44:55.491590|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:44:55.491590|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:44:55.491590|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-24 22:44:55.491590|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-24 22:44:55.491590|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-24 22:44:55.491590|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:44:55.491590|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-24 22:44:55.493588|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-24 22:44:55.493588|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-24 22:44:55.496589|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-24 22:44:55.497595|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList

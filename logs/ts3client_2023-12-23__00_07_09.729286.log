@@ -1,0 +1,238 @@
+
+
+==================================================================================================================================
+
+2023-12-23 03:07:09.730289|INFO    |              |   |TeamSpeak Client 3.5.6 (2020-11-25 13:53:42)
+2023-12-23 03:07:09.730289|INFO    |              |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2023-12-23 03:07:09.730289|INFO    |              |   |Using hardware aes
+2023-12-23 03:07:09.834312|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms - 
+2023-12-23 03:07:09.931232|INFO    |              |   |*** Time [SPAWN_EVENTCONVERTER]: 204
+2023-12-23 03:07:10.096033|INFO    |ClientUI      |   |OpenGL Info: LibGLES, Vendor: Google Inc., Renderer: ANGLE (NVIDIA GeForce RTX 3050 Direct3D11 vs_5_0 ps_5_0), Version: OpenGL ES 2.0 (ANGLE 2.1.0.57ea533f79a7)
+2023-12-23 03:07:10.099031|ERROR   |RevocationListCache|   |Failed to import revocation list from cache
+2023-12-23 03:07:10.290048|INFO    |              |   |successfully downloaded revocation list for accounting
+2023-12-23 03:07:10.317050|INFO    |              |   |successfully downloaded revocation list for myteamspeak id
+2023-12-23 03:07:10.376061|INFO    |              |   |*** Time [ICONMANGER]: 276
+2023-12-23 03:07:10.379061|INFO    |Addons        |   |Checking for addon updates...
+2023-12-23 03:07:10.640080|INFO    |SyncImpl      |   |Creating default config in local storage
+2023-12-23 03:07:10.717086|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-23 03:07:10.717086|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-23 03:07:11.723095|INFO    |              |   |*** Time [BUILD_GUI]: 988
+2023-12-23 03:07:11.779095|INFO    |              |   |*** Time [SERVERVIEW]: 1065
+2023-12-23 03:07:11.809097|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 1123
+2023-12-23 03:07:12.235645|INFO    |              |   |*** Time [MAINWINDOW]: 2642
+2023-12-23 03:07:12.235645|INFO    |              |   |*** Time [INIT]: 2645
+2023-12-23 03:07:12.336654|INFO    |              |   |*** Time [NOTIFICATIONS]: 101
+2023-12-23 03:07:12.336654|INFO    |ClientUI      |   |Qt version: 5.12.3
+2023-12-23 03:07:12.336654|INFO    |ClientUI      |   |Using configuration location: C:\Users\Xandynn\AppData\Roaming\TS3Client\settings.db
+2023-12-23 03:07:13.963325|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2023-12-23 03:07:13.965325|INFO    |ClientUI      |   |Last update check was: Never
+2023-12-23 03:07:13.996330|INFO    |Update        |   |Checking for updates...
+2023-12-23 03:07:13.997328|INFO    |Integrations  |   |Requesting integration icon download from https://ts3services.teamspeak.com/integration_icons/twitch/twitch.svg
+2023-12-23 03:07:13.998843|INFO    |Newsticker    |   |Newsticker language change detected
+2023-12-23 03:07:13.999846|INFO    |Newsticker    |   |Newsticker next check: 
+2023-12-23 03:07:14.111850|INFO    |Newsticker    |   |Newsticker not found for language pt
+2023-12-23 03:07:14.218858|INFO    |Addon_Download_Manager|   |Download completed: C:/Users/Xandynn/AppData/Local/Temp/control-13win64_5d002c29b8529.ts3_plugin Addon_Uuid:fe337fce-f1c4-425f-a95a-b88d0badda16 Version: 4
+2023-12-23 03:07:14.404873|INFO    |Newsticker    |   |Newsticker received for language pt, expires on dom dez 24 00:07:14 2023, next check in 86400 seconds
+2023-12-23 03:07:14.424451|INFO    |Addon_Download_Manager|   |Download completed: C:/Users/Xandynn/AppData/Local/Temp/gamepadjoystickpluginwin64_5d0043f73bedc.ts3_plugin Addon_Uuid:9415ef5c-736c-4780-b4df-4cd53c886a8d Version: 8
+2023-12-23 03:07:14.603968|INFO    |Addon_Download_Manager|   |Download completed: C:/Users/Xandynn/AppData/Local/Temp/clientquerypluginwin64_5d2d9a74826e7.ts3_plugin Addon_Uuid:943dd816-7ef2-48d7-82b8-d60c3b9b10b3 Version: 7
+2023-12-23 03:07:14.647482|INFO    |Update        |   |License update available; version 0 to 5 (min version 0 to 4)
+2023-12-23 03:07:14.669483|INFO    |LicenseViewer |   |View license: version=5, language=pt, require accept=1
+2023-12-23 03:07:14.669483|INFO    |LicenseViewer |   |Requesting remote license for version 5 and language pt
+2023-12-23 03:07:14.718487|DEBUG   |Addon_Install_Manager|   |(Package Installer): Add-On successfully installed and activated.
+2023-12-23 03:07:14.719488|INFO    |Addon_Install_Manager|   |Addon installed: Control
+2023-12-23 03:07:14.771490|INFO    |Addons        |   |Installing addon Control
+2023-12-23 03:07:14.929502|INFO    |Plugins       |   |Loading plugin: teamspeak_control_plugin_win64.dll
+2023-12-23 03:07:14.980506|INFO    |ControlPlugin |   |Control Plugin started, accepting connections
+2023-12-23 03:07:14.981507|INFO    |Addon_Install_Manager|   |Addon installed: Gamepad and Joystick Hotkey Support
+2023-12-23 03:07:15.001508|INFO    |Addons        |   |Installing addon Gamepad and Joystick Hotkey Support
+2023-12-23 03:07:15.085516|INFO    |Plugins       |   |Loading plugin: gamepad_joystick_win64.dll
+2023-12-23 03:07:15.299530|INFO    |Gamepad Plugin|   |Found client raw input wnd proc
+2023-12-23 03:07:15.299530|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-23 03:07:15.301530|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-23 03:07:15.841571|INFO    |LicenseViewer |   |Failed to download license file for version 5 and language pt, retrying english fallback
+2023-12-23 03:07:15.841571|INFO    |LicenseViewer |   |Requesting remote license for version 5 and language en
+2023-12-23 03:07:16.542680|INFO    |LicenseViewer |   |Downloaded license file for version 5 and language en
+2023-12-23 03:07:17.315717|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/auth.txt
+2023-12-23 03:07:17.323720|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/banadd.txt
+2023-12-23 03:07:17.325717|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/banclient.txt
+2023-12-23 03:07:17.329720|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/bandel.txt
+2023-12-23 03:07:17.335718|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/bandelall.txt
+2023-12-23 03:07:17.339720|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/banlist.txt
+2023-12-23 03:07:17.343720|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channeladdperm.txt
+2023-12-23 03:07:17.346720|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelclientaddperm.txt
+2023-12-23 03:07:17.349720|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelclientdelperm.txt
+2023-12-23 03:07:17.357723|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelclientlist.txt
+2023-12-23 03:07:17.362721|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelclientpermlist.txt
+2023-12-23 03:07:17.367723|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelconnectinfo.txt
+2023-12-23 03:07:17.373723|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelcreate.txt
+2023-12-23 03:07:17.380724|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channeldelete.txt
+2023-12-23 03:07:17.387722|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channeldelperm.txt
+2023-12-23 03:07:17.390724|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channeledit.txt
+2023-12-23 03:07:17.396722|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgroupadd.txt
+2023-12-23 03:07:17.400724|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgroupaddperm.txt
+2023-12-23 03:07:17.402723|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgroupclientlist.txt
+2023-12-23 03:07:17.407725|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgroupdel.txt
+2023-12-23 03:07:17.410724|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgroupdelperm.txt
+2023-12-23 03:07:17.414725|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgrouplist.txt
+2023-12-23 03:07:17.417725|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelgrouppermlist.txt
+2023-12-23 03:07:17.420727|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channellist.txt
+2023-12-23 03:07:17.425727|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelmove.txt
+2023-12-23 03:07:17.432726|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelpermlist.txt
+2023-12-23 03:07:17.435726|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/channelvariable.txt
+2023-12-23 03:07:17.439729|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientaddperm.txt
+2023-12-23 03:07:17.443727|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientdbdelete.txt
+2023-12-23 03:07:17.449916|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientdbedit.txt
+2023-12-23 03:07:17.456728|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientdblist.txt
+2023-12-23 03:07:17.462732|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientdelperm.txt
+2023-12-23 03:07:17.468729|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientgetdbidfromuid.txt
+2023-12-23 03:07:17.470729|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientgetids.txt
+2023-12-23 03:07:17.475730|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientgetnamefromdbid.txt
+2023-12-23 03:07:17.482732|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientgetnamefromuid.txt
+2023-12-23 03:07:17.486730|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientgetuidfromclid.txt
+2023-12-23 03:07:17.490734|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientkick.txt
+2023-12-23 03:07:17.495731|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientlist.txt
+2023-12-23 03:07:17.499730|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientmove.txt
+2023-12-23 03:07:17.503734|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientmute.txt
+2023-12-23 03:07:17.507733|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientnotifyregister.txt
+2023-12-23 03:07:17.510732|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientnotifyunregister.txt
+2023-12-23 03:07:17.517733|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientpermlist.txt
+2023-12-23 03:07:17.521732|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientpoke.txt
+2023-12-23 03:07:17.526732|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientunmute.txt
+2023-12-23 03:07:17.529733|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientupdate.txt
+2023-12-23 03:07:17.534736|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/clientvariable.txt
+2023-12-23 03:07:17.538735|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/complainadd.txt
+2023-12-23 03:07:17.541733|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/complaindel.txt
+2023-12-23 03:07:17.545737|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/complaindelall.txt
+2023-12-23 03:07:17.549734|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/complainlist.txt
+2023-12-23 03:07:17.554735|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/connect.txt
+2023-12-23 03:07:17.558735|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/currentschandlerid.txt
+2023-12-23 03:07:17.562736|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/disconnect.txt
+2023-12-23 03:07:17.566735|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftcreatedir.txt
+2023-12-23 03:07:17.571738|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftdeletefile.txt
+2023-12-23 03:07:17.579739|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftgetfileinfo.txt
+2023-12-23 03:07:17.585739|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftgetfilelist.txt
+2023-12-23 03:07:17.595738|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftinitdownload.txt
+2023-12-23 03:07:17.600737|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftinitupload.txt
+2023-12-23 03:07:17.605739|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftlist.txt
+2023-12-23 03:07:17.610739|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftrenamefile.txt
+2023-12-23 03:07:17.617741|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/ftstop.txt
+2023-12-23 03:07:17.621742|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/hashpassword.txt
+2023-12-23 03:07:17.624741|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/help.txt
+2023-12-23 03:07:17.630741|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/messageadd.txt
+2023-12-23 03:07:17.640741|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/messagedel.txt
+2023-12-23 03:07:17.651742|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/messageget.txt
+2023-12-23 03:07:17.657744|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/messagelist.txt
+2023-12-23 03:07:17.667745|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/messageupdateflag.txt
+2023-12-23 03:07:17.671742|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/permoverview.txt
+2023-12-23 03:07:17.680746|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/quit.txt
+2023-12-23 03:07:17.687744|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/README.txt
+2023-12-23 03:07:17.696747|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/sendtextmessage.txt
+2023-12-23 03:07:17.707748|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/serverconnectinfo.txt
+2023-12-23 03:07:17.710747|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/serverconnectionhandlerlist.txt
+2023-12-23 03:07:17.716748|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupadd.txt
+2023-12-23 03:07:17.720747|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupaddclient.txt
+2023-12-23 03:07:17.729749|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupaddperm.txt
+2023-12-23 03:07:17.731749|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupclientlist.txt
+2023-12-23 03:07:17.738751|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupdel.txt
+2023-12-23 03:07:17.746749|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupdelclient.txt
+2023-12-23 03:07:17.750749|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupdelperm.txt
+2023-12-23 03:07:17.759751|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergrouplist.txt
+2023-12-23 03:07:17.767751|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergrouppermlist.txt
+2023-12-23 03:07:17.769752|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servergroupsbyclientid.txt
+2023-12-23 03:07:17.777752|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/servervariable.txt
+2023-12-23 03:07:17.783754|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/setclientchannelgroup.txt
+2023-12-23 03:07:17.792753|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/tokenadd.txt
+2023-12-23 03:07:17.800753|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/tokendelete.txt
+2023-12-23 03:07:17.808753|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/tokenlist.txt
+2023-12-23 03:07:17.823756|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/tokenuse.txt
+2023-12-23 03:07:17.831756|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/use.txt
+2023-12-23 03:07:17.837757|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/verifychannelpassword.txt
+2023-12-23 03:07:17.844757|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/verifyserverpassword.txt
+2023-12-23 03:07:17.861757|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin/whoami.txt
+2023-12-23 03:07:17.869331|DEBUG   |Addon_Install_Manager|   |(Package Installer): Writing /plugins/clientquery_plugin_win64.dll
+2023-12-23 03:07:17.972338|DEBUG   |Addon_Install_Manager|   |(Package Installer): Add-On successfully installed and activated.
+2023-12-23 03:07:18.019636|INFO    |Addon_Install_Manager|   |Addon installed: ClientQuery
+2023-12-23 03:07:18.030620|INFO    |Addons        |   |Installing addon ClientQuery
+2023-12-23 03:07:18.080625|INFO    |Plugins       |   |Loading plugin: clientquery_plugin_win64.dll
+2023-12-23 03:07:18.151628|INFO    |Query         |   |listening on 127.0.0.1:25639
+2023-12-23 03:07:20.802423|INFO    |ClientUI      |   |Trying to open html from: file:///C:/Program Files/TeamSpeak 3 Client/html/teamspeak5_intro/index.html
+2023-12-23 03:07:25.021765|INFO    |              |   |********** LEGACY IMPORT ***************
+2023-12-23 03:07:25.021765|INFO    |              |   |Imported channel passwords
+2023-12-23 03:07:25.022768|INFO    |              |   |Imported legacy hotkeys
+2023-12-23 03:07:25.022768|INFO    |              |   |No legacy bookmarks found
+2023-12-23 03:07:25.022768|INFO    |              |   |Imported legacy bookmarks
+2023-12-23 03:07:25.036767|INFO    |              |   |Imported legacy subscriptions
+2023-12-23 03:07:25.037765|INFO    |              |   |Imported legacy whisperlists
+2023-12-23 03:07:27.787061|INFO    |ClientUI      |   |Created default identity
+2023-12-23 03:07:33.662513|INFO    |ClientUI      |1  |Connect to server: flashac
+2023-12-23 03:07:33.720516|INFO    |ClientUI      |1  |Trying to resolve flashac
+2023-12-23 03:07:33.720516|INFO    |TSDNS         |   |Trying to resolve server name: flashac
+2023-12-23 03:07:33.960532|INFO    |TSDNS         |   |Server name successfully resolved
+2023-12-23 03:07:33.961532|INFO    |TSDNS         |   |Lookup: 3002.tsfivem.com.br, parse result: DNS 3002.tsfivem.com.br 9987
+2023-12-23 03:07:33.961532|INFO    |TSDNS         |   |Server name resolved to host: 3002.tsfivem.com.br 9987
+2023-12-23 03:07:34.158550|INFO    |TSDNS         |   |A/AAAA DNS resolve for possible TSDNS successful, "3002.tsfivem.com.br" =(h: 104.21.32.147 p:0)
+2023-12-23 03:07:34.163550|INFO    |TSDNS         |   |A/AAAA DNS resolve successful, "3002.tsfivem.com.br" =(h: 104.21.32.147 p:0)
+2023-12-23 03:07:34.206898|INFO    |TSDNS         |   |SRV DNS resolve successful, "_ts3._udp.3002.tsfivem.com.br" =(h: _dc-srv.5316a1067a00._ts3._udp.3002.tsfivem.com.br p:3002)
+2023-12-23 03:07:34.253904|INFO    |TSDNS         |   |A/AAAA DNS resolve successful, "_dc-srv.5316a1067a00._ts3._udp.3002.tsfivem.com.br" =(h: 149.56.44.237 p:0)
+2023-12-23 03:07:34.253904|INFO    |ClientUI      |1  |Lookup finished: ip=149.56.44.237 port=3002 query=3002.tsfivem.com.br error=0
+2023-12-23 03:07:34.253904|INFO    |ClientUI      |1  |Resolve successful: 149.56.44.237:3002
+2023-12-23 03:07:34.253904|INFO    |ClientUI      |1  |Initiating connection: 149.56.44.237:3002
+2023-12-23 03:07:34.286906|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-23 03:07:34.286906|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-23 03:07:34.287908|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-23 03:07:34.292905|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 2 - Alto-falantes (SHEM-BOY)
+2023-12-23 03:07:34.292905|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Alto-falantes (SHEM-BOY)
+2023-12-23 03:07:34.330423|INFO    |TSDNS         |   |A/AAAA DNS resolve unsuccessful, "tsfivem.com.br" DNS server returned answer with no data
+2023-12-23 03:07:34.354425|INFO    |Windows Audio Session|   |Initialized with 2 channels in 32bit, 48kHz. - Alto-falantes (SHEM-BOY)
+2023-12-23 03:07:34.355425|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Alto-falantes (SHEM-BOY)
+2023-12-23 03:07:34.355425|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-23 03:07:34.355425|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-23 03:07:34.357423|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-23 03:07:34.370938|INFO    |TSDNS         |   |SRV DNS resolve unsuccessful, "_tsdns._tcp.tsfivem.com.br" Domain name not found
+2023-12-23 03:07:34.456999|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-23 03:07:34.456999|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-23 03:07:34.456999|DEBUG   |Windows Audio Session|   |WAS::openDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-23 03:07:34.459000|DEVELOP |Windows Audio Session|   |Mix Format: SRate:48000 Bitrate: 32 Channels: 1 - Microphone (SHEM-BOY)
+2023-12-23 03:07:34.459000|DEVELOP |Windows Audio Session|   |Initializing with mix format. - Microphone (SHEM-BOY)
+2023-12-23 03:07:34.484008|INFO    |Windows Audio Session|   |Initialized with 1 channels in 32bit, 48kHz. - Microphone (SHEM-BOY)
+2023-12-23 03:07:34.484008|DEVELOP |Windows Audio Session|   |WAS Buffer size: 1056 - Microphone (SHEM-BOY)
+2023-12-23 03:07:34.484008|DEBUG   |Windows Audio Session|   |WAS::openDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-23 03:07:34.485007|DEBUG   |Windows Audio Session|   |WAS::startDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-23 03:07:34.495008|DEBUG   |Windows Audio Session|   |WAS::startDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-23 03:07:34.573015|INFO    |ClientUI      |1  |Connect status: Connecting
+2023-12-23 03:07:34.857034|DEVELOP |PktHandler    |1  |Puzzle solve time: 0
+2023-12-23 03:07:35.318472|INFO    |ClientUI      |1  |Connect status: Connected
+2023-12-23 03:07:35.337473|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2023-12-23 03:07:35.345473|INFO    |ClientUI      |1  |Connect status: Connection established
+2023-12-23 03:07:35.680491|INFO    |              |   |Failed to read image C:/Users/Xandynn/AppData/Roaming/TS3Client/cache/remote/1H7yAwDB1A1HM0A0Ni_hd+7kE0FCF0AtNeiXcfPaSgkuW63Fub2pjia_aCKhikXJuyLO5njM9hDNcfrtwyFcJg==
+2023-12-23 03:07:35.680491|INFO    |              |   |No image, refusing to display
+2023-12-23 03:07:36.161529|INFO    |TSDNS         |   |TSDNS queried unsuccessfully 104.21.32.147:41144
+2023-12-23 03:07:36.161529|INFO    |TSDNS         |   |No TSDNS found
+2023-12-23 03:08:33.812760|INFO    |ClientUI      |1  |Connect status: Disconnected
+2023-12-23 03:08:33.823761|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2023-12-23 03:08:34.784955|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-23 03:08:34.784955|DEBUG   |Windows Audio Session|   |WAS::associateAECDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-23 03:08:34.784955|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-23 03:08:34.784955|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-23 03:08:34.784955|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-23 03:08:34.784955|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Alto-falantes (SHEM-BOY) - DeviceDeleteList
+2023-12-23 03:08:34.784955|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Alto-falantes (SHEM-BOY) - DeviceDeleteList
+2023-12-23 03:08:34.784955|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-23 03:08:34.784955|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.0.00000000}.{ca138024-a3c1-4a8a-99d8-d2b57bd82bb9}
+2023-12-23 03:08:34.784955|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-23 03:08:34.784955|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-23 03:08:34.810955|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-23 03:08:34.812956|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-23 03:08:35.669920|DEBUG   |Windows Audio Session|   |WAS::stopDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-23 03:08:35.669920|DEBUG   |Windows Audio Session|   |WAS::stopDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-23 03:08:35.669920|DEBUG   |Windows Audio Session|   |WAS::closeDevice-enter - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-23 03:08:35.669920|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - enter: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-23 03:08:35.669920|DEVELOP |Windows Audio Session|   |DeviceDeleteList::queue_device_delete - leave: Microphone (SHEM-BOY) - DeviceDeleteList
+2023-12-23 03:08:35.669920|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - enter - DeviceDeleteList
+2023-12-23 03:08:35.669920|DEBUG   |Windows Audio Session|   |WAS::closeDevice-leave - {0.0.1.00000000}.{a5aa918f-2e55-43e8-bb08-d4a519355d71}
+2023-12-23 03:08:35.669920|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-23 03:08:35.669920|DEVELOP |Windows Audio Session|   |Waiting for device to close  - DeviceDeleteList
+2023-12-23 03:08:35.673920|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clear_queue - leave  - DeviceDeleteList
+2023-12-23 03:08:35.675920|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-23 03:08:35.676923|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-23 03:08:35.676923|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList

@@ -1,0 +1,56 @@
+
+
+==================================================================================================================================
+
+2023-12-27 02:52:20.550152|INFO    |              |   |TeamSpeak Client 3.5.6 (2020-11-25 13:53:42)
+2023-12-27 02:52:20.550152|INFO    |              |   |SystemInformation: Windows 10 (19045) x64 (AMD or Intel) Binary: 64bit
+2023-12-27 02:52:20.551131|INFO    |              |   |Using hardware aes
+2023-12-27 02:52:20.722609|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms - 
+2023-12-27 02:52:20.928894|INFO    |              |   |*** Time [SPAWN_EVENTCONVERTER]: 402
+2023-12-27 02:52:21.356130|INFO    |ClientUI      |   |OpenGL Info: LibGLES, Vendor: Google Inc., Renderer: ANGLE (NVIDIA GeForce RTX 3050 Direct3D11 vs_5_0 ps_5_0), Version: OpenGL ES 2.0 (ANGLE 2.1.0.57ea533f79a7)
+2023-12-27 02:52:22.174705|INFO    |              |   |*** Time [ICONMANGER]: 791
+2023-12-27 02:52:22.242867|INFO    |Addons        |   |Checking for addon updates...
+2023-12-27 02:52:22.511941|INFO    |              |   |successfully downloaded revocation list for accounting
+2023-12-27 02:52:22.570772|INFO    |              |   |successfully downloaded revocation list for myteamspeak id
+2023-12-27 02:52:22.638159|INFO    |Addon         |   |Addon up to date.
+2023-12-27 02:52:22.682240|INFO    |Plugins       |   |Loading plugin: clientquery_plugin_win64.dll
+2023-12-27 02:52:22.686158|INFO    |Query         |   |listening on 127.0.0.1:25639
+2023-12-27 02:52:22.686158|INFO    |Plugins       |   |Loading plugin: gamepad_joystick_win64.dll
+2023-12-27 02:52:22.870536|INFO    |Addon         |   |Addon up to date.
+2023-12-27 02:52:22.920580|INFO    |Gamepad Plugin|   |Found client raw input wnd proc
+2023-12-27 02:52:22.920580|INFO    |Gamepad Plugin|   |Cleared device list
+2023-12-27 02:52:22.924489|INFO    |Gamepad Plugin|   |Found device \\?\HID#VID_0A67&PID_0003&MI_03&COL01#8&1EA58C96&0&0000#{4D1E55B2-F16F-11CF-88CB-001111000030}
+2023-12-27 02:52:22.941141|INFO    |Plugins       |   |Loading plugin: tokovoip_win64.dll
+2023-12-27 02:52:22.944080|INFO    |TokoVOIP      |141|TokoVOIP initialized
+2023-12-27 02:52:22.944080|INFO    |TokoVOIP      |141|Can't get current channel : invalid server connection handler ID
+2023-12-27 02:52:22.944080|INFO    |TokoVOIP      |141|Error getting all clients from the server : invalid server connection handler ID
+2023-12-27 02:52:22.945060|INFO    |TokoVOIP      |141|Can't get current channel : invalid server connection handler ID
+2023-12-27 02:52:22.945060|INFO    |TokoVOIP      |141|Error getting all clients from the server : invalid server connection handler ID
+2023-12-27 02:52:22.945060|INFO    |TokoVOIP      |141|Error getting all clients from server : invalid server connection handler ID
+2023-12-27 02:52:23.105851|INFO    |Addon         |   |Addon up to date.
+2023-12-27 02:52:23.414709|INFO    |TokoVOIP      |141|Got update json
+2023-12-27 02:52:23.414709|INFO    |TokoVoip      |   |init
+2023-12-27 02:52:23.419690|INFO    |TokoVoip      |   |No translation available.
+2023-12-27 02:52:23.419690|INFO    |TokoVoip      |   |init done
+2023-12-27 02:52:23.419690|INFO    |Plugins       |   |Loading plugin: teamspeak_control_plugin_win64.dll
+2023-12-27 02:52:23.422631|WARNING |ControlPlugin |   |Failed to initialize Control Plugin
+2023-12-27 02:52:23.423610|INFO    |              |   |*** Time [PLUGINS]: 743
+2023-12-27 02:52:23.652223|INFO    |              |   |*** Time [MAINWINDOW_ACTIONS]: 149
+2023-12-27 02:52:23.767519|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-27 02:52:23.768499|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-27 02:52:26.126154|INFO    |              |   |*** Time [BUILD_GUI]: 2351
+2023-12-27 02:52:26.306097|INFO    |              |   |*** Time [SERVERVIEW_ACTIONS]: 179
+2023-12-27 02:52:26.326668|INFO    |              |   |*** Time [SERVERVIEW]: 2562
+2023-12-27 02:52:26.367344|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 2667
+2023-12-27 02:52:26.804358|INFO    |              |   |*** Time [MAINWINDOW]: 6308
+2023-12-27 02:52:26.805335|INFO    |              |   |*** Time [INIT]: 6309
+2023-12-27 02:52:26.820030|INFO    |ClientUI      |   |Qt version: 5.12.3
+2023-12-27 02:52:26.821008|INFO    |ClientUI      |   |Using configuration location: C:\Users\Xandynn\AppData\Roaming\TS3Client\settings.db
+2023-12-27 02:52:27.303929|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2023-12-27 02:52:27.305889|INFO    |ClientUI      |   |Last update check was: ter dez 26 23:52:23 2023
+2023-12-27 02:52:27.306868|INFO    |              |   |Statistics report: Not yet, next report on sáb jan 20 00:08:42 2024
+2023-12-27 02:52:27.917976|INFO    |Newsticker    |   |Newsticker next check: qua dez 27 23:52:24 2023
+2023-12-27 02:52:29.503563|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-27 02:52:29.503563|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
+2023-12-27 02:52:29.504542|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - enter - DeviceDeleteList
+2023-12-27 02:52:29.504542|DEVELOP |Windows Audio Session|   |DeviceDeleteList::wait_for_deletes - leave - DeviceDeleteList
